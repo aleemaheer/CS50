@@ -17,4 +17,3 @@ if there's no error in your code, this will generates a machine code in your cur
 ```bash
     ./<name of file>
 ```
-4. 
