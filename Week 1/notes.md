@@ -1,6 +1,6 @@
 ### Notes
 Here are my notes that are helpful, commands or anything
-1. To remove a directory from the command line we can use the command:
+1. To remove a file from the command line we can use the command:
 ```bash
     rm <name of file>
 ```
