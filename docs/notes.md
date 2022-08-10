@@ -17,3 +17,9 @@ if there's no error in your code, this will generates a machine code in your cur
 ```bash
     ./<name of file>
 ```
+
+4. To hash a string or number using terminal we can use the command like this:
+```bash
+    echo -n Welcome | md5sum
+```
+This will return Welcome in hased, there is no way to dehash like encoding and decoding, encrypting and decrypting.
